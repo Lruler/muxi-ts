@@ -8,3 +8,5 @@ function sum(x: number, y: number): number {
 }
 
 console.log(sum(a, b));
+
+export { }
