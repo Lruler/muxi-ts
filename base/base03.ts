@@ -21,9 +21,7 @@ c = { name: 'swk' }
 
 let d: (a: number, b: number) => number;
 
-d = function (a: number, b: number): number {
-    return a + b
-}
+d = function (x, y) { return x + y }
 
 // 声明数组
 
